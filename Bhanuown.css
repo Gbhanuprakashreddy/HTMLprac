@@ -1,0 +1,12 @@
+html {
+    font-size: medium;
+    background: #333;
+    color: whitesmoke
+}
+h2 {
+    text-align: center;
+}
+h4, p {
+    text-align: center;
+}
+
